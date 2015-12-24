@@ -1,2 +1,2 @@
-# WordCount_Hadoop_Python
+# WordCount Hadoop Python
 Simple Word Count MapReduce code in Python
